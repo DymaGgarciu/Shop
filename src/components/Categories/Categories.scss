@@ -1,0 +1,20 @@
+.Categories {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  .btn-light {
+    margin: 10px;
+    text-transform: capitalize;
+  }
+  .btn-dark {
+    margin: 10px;
+    text-transform: capitalize;
+  }
+}
+.line {
+  margin-bottom: 50px;
+}

@@ -1,0 +1,12 @@
+.Header {
+    height: 50px;
+    background: black;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+    &__title{
+        text-align: center;
+        color:  white;
+        transform:translateY(18%) ;
+    }
+}

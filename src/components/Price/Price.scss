@@ -1,0 +1,18 @@
+.price-box {
+  h3 {
+    margin-top: 50px;
+  }
+  .price-form {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: start;
+    .form-control {
+      max-width: 200px;
+      margin-right: 40px;
+    }
+    .input-group {
+      width: auto;
+    }
+  }
+}
